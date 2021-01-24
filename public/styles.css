@@ -1,0 +1,37 @@
+/* H1 CSS */
+h1:first-child {
+  margin-bottom: 0;
+  margin-top: 20px;
+  font-size: 4rem;
+  padding: 10px 10px;
+  background-color: rgb(161 197 196);
+  font-family: Lobster;
+}
+/*SEARCH INPUT CSS*/
+
+.header {
+  background-color: rgb(161 197 196);
+}
+
+.input {
+  position: relative;
+  margin: 20px 10px;
+}
+.ui.icon.input {
+  font-size: 1.5rem;
+}
+i .icon {
+  font-size: 1.5rem;
+}
+
+/*IMAGE CSS*/
+.imageList {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 0 10px;
+  grid-auto-rows: 10px;
+  margin-top: 10px;
+}
+.imageList img {
+  width: 250px;
+}

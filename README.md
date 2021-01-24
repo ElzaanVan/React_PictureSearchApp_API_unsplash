@@ -1,2 +1,2 @@
-# React_PictureSearchApp_API_unsplash
+# React_EmojiDictionary_App_Basic
 Created with CodeSandbox
